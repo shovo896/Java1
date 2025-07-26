@@ -7,7 +7,7 @@ public class dataTypes {
         float gravity= 9.8f ;
         System.out.println("Number of students :" +num) ;
         System.out.println("Number of teachers :" +t);  
-        System.out.println(pi);
+        System.out.println(+pi);
         System.out.println(gravity);
     
     }
