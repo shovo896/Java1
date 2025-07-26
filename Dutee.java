@@ -1,5 +1,28 @@
-public class Dutee {
-    public static void main(String[] args) {
-        System.out.println("Dutee is running!");
+public class Car { 
+    String model ;
+    int year ;
+    Car(String model,int year){
+        this.model = model ;
+        this.year = year ;
     }
+    void display(){
+        System.out.println(model+""+year);
+    }
+}
+public class Dutee {
+    public static void main(String[] args){
+        Car myCar = new Car("Toyota",2020);
+        myCar.display();
+
+
+
+
+    }
+
+
+
+
+
+
+
 }
