@@ -12,7 +12,7 @@ public class sum_even_odd {
         }
         System.out.println("Sum of even numbers: " + sum_even);
         System.out.println("Sum of odd numbers: " + sum_odd);
-        System.out.println("Total sum: " + (sum_even + sum_odd));
+        
     }
     
 }
