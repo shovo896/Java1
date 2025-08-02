@@ -7,7 +7,7 @@ interface static1 {
 }
 
 // A class that implements the static interface
-class StaticClass implements static1 {
+class static1 implements static1 {
     public static void main(String[] args) {
         static1.display(); 
     }
