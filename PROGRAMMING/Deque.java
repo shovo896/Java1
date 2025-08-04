@@ -1,5 +1,5 @@
 package PROGRAMMING;
 
-public class Deque {   ekhan  theke suru korbo 5 August
+public class Deque {   ekhan  theke suru korbo 5 August 2025
     
 }
