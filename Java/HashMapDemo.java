@@ -12,6 +12,7 @@ public class HashMapDemo {
         System.out.println("Value for key 1: " + hm.get(1));
         for(Map.Entry<Integer,String> e:hm.entrySet())
         System.out.println(e.getKey()+" "+e.getValue());
+        // end
 
 
 
