@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.stream.IntStream;
 
 class binarysearchlist {
-    private static boolean isElementPresent(int[]arr,int key){
+    private static boolean isElementPresent(Integer[]arr,int key){
         boolean res=Arrays.asList(arr).contains(key);
         return res; // Element found or not found
 
