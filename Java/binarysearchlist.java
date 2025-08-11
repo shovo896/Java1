@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
+
 class BinarySearchList {
     private static boolean isElementPresent(int[] arr, int key) {
         // Loop through the primitive array manually
