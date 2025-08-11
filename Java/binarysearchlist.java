@@ -9,7 +9,7 @@ class binarysearchlist {
         }
         public static void main(String[]args){
             int arr[] = {1, 2, 3, 4, 5};
-            int key = 3;
+            int key = 8;
             boolean result = isElementPresent(arr, key);
             System.out.println("Is the element " + key + " present in the array? " + result);
         }
