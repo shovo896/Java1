@@ -9,7 +9,7 @@ public class doublepyra {
                 System.out.println("*");
                 ++k;
             }
-            System.out.println("");
+            System.out.println();
         }
 
 
