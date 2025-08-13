@@ -9,6 +9,7 @@ public class simple interest {
 
         // Calculate simple interest
         double interest = (principal * rate * time) / 100;
+        // change up to 
 
         // Print the result
         System.out.println("Simple Interest: " + interest);
