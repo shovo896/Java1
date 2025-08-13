@@ -10,7 +10,7 @@ class dsss {
                 n2-=n1;
             }
         }
-        System.out.println("GCD"+n1);
+        System.out.println("GCD" +n1);
 
     }
     
